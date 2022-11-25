@@ -1,0 +1,22 @@
+total 64
+-rw-rw-r-- 1 ubuntu ubuntu  173 Nov  7 12:32 add.sh
+-rw-rw-r-- 1 ubuntu ubuntu  510 Nov  7 12:41 basics.sh
+-rw-rw-r-- 1 ubuntu ubuntu  351 Nov  7 12:50 bc.sh
+drwxrwxr-x 2 ubuntu ubuntu 4096 Nov  7 12:19 dir1
+drwxrwxr-x 2 ubuntu ubuntu 4096 Nov  7 12:19 dir2
+drwxrwxr-x 2 ubuntu ubuntu 4096 Nov  7 12:19 dir3
+-rw-rw-r-- 1 ubuntu ubuntu  406 Nov  8 05:39 elseif.sh
+-rw-rw-r-- 1 ubuntu ubuntu   98 Nov  9 02:46 fileline.sh
+-rw-rw-r-- 2 ubuntu ubuntu    0 Nov  7 12:19 hardlink
+-rw-rw-r-- 1 ubuntu ubuntu  197 Nov  8 05:40 if.sh
+lrwxrwxrwx 1 ubuntu ubuntu    2 Nov  8 06:00 link1 -> r2
+-rw-rw-r-- 1 ubuntu ubuntu   19 Nov  8 02:36 ls.sh
+-rw-rw-r-- 1 ubuntu ubuntu    0 Nov  9 02:47 r1
+-rw-rw-r-- 1 ubuntu ubuntu   72 Nov  7 12:20 r1.sh
+-rw-rw-r-- 1 ubuntu ubuntu   44 Nov  7 12:21 r2
+-rw-rw-r-- 1 ubuntu ubuntu  125 Nov  7 12:57 r2.sh
+-rw-rw-r-- 2 ubuntu ubuntu    0 Nov  7 12:19 r3
+-rw-rw-r-- 1 ubuntu ubuntu  286 Nov  8 06:21 scriptst.sh
+lrwxrwxrwx 1 ubuntu ubuntu    5 Nov  8 05:47 softlink -> if.sh
+-rw-rw-r-- 1 ubuntu ubuntu  280 Nov  9 01:15 string.sh
+-rw-rw-r-- 1 ubuntu ubuntu  123 Nov  7 12:17 sub.sh
